@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="my_name">Christine Ritchie</string>
+    <string name="my_title">Software Development Student</string>
+    <string name="my_image_description">A photo of me</string>
+    <string name="my_phone_number">403–803–9040</string>
+    <string name="my_email">c.ritchie745@mybvc.ca</string>
+    <string name="my_availability">Mon - Fri (8:00am - 4:00pm)</string>
+</resources>
